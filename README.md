@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tails2012timnew
-- 👀 I’m interested in Electronics & Ga,omg
+- 👀 I’m interested in Electronics & Gaming
 - 🌱 I’m currently learning C# and Cosmos
 
 - 
